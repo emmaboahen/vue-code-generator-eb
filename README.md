@@ -8,7 +8,7 @@ I am working hard to add more code snippets so stay tuned!
 
 2. To generate single file vuex code, create a new state file eg. 'myappstate.js', type 'vx' in your new file and press your enter key.
 
-![Vuex snippet](./images/vuex.gif\)
+![Vuex snippet](./images/vuex.gif)
 ![Vue component snippet](./images/component.gif)
 
 
