@@ -1,0 +1,26 @@
+{
+      "Generate vue component code": {
+        "prefix": "vc",
+        "body": [
+		  "<template>",
+		  "  <div>",
+		  "    $2",
+		  "  </div>",
+          "</template>",
+          "<script>",
+		  "export default {",
+		  "  name: '$1',",
+          "  data() {",
+		  "    return {",
+		  "",
+          "    }",
+          "  },",
+		  "  methods: {",
+		  "",
+          "  }",
+          "};",
+          "</script>"
+        ],
+        "description": "Generate vue component code"
+      }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "vue-code-generator-eb",
+    "displayName": "Vue Code Generator by EB",
+    "description": "Use this to generate single file vue component or vuex code for Vue js.",
+    "version": "1.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/vuex.code-snippets"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/vue.code-snippets"
+            }
+        ]
+    },
+    "publisher": "enb"
+}
